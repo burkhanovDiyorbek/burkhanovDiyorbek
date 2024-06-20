@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burkhanovdiyorbek&label=Profile%20views&color=0e75b6&style=flat" alt="burkhanovdiyorbek" /> </p>
 
-- 🔭 I’m currently working on [react-sneakers](https://react-sneakers-lovat-theta.vercel.app/)
+- 🔭 I’m currently working on [bbc-auto]
 
-- 🌱 I’m currently learning **react.js, tailwand**
+- 🌱 I’m currently learning **tailwand**
 
-- 💬 Ask me about **JavaScript,TypeScript**
+- 💬 Ask me about **JavaScript,TypeScript,React.js**
 
 - 📫 How to reach me **diyorburxonov0007@gmail.com**
 
