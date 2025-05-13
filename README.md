@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [bbc-auto]
 
-- 🌱 I’m currently learning **tailwand**
+- 🌱 I’m currently deep learning **TypeScript**
 
 - 💬 Ask me about **JavaScript,TypeScript,React.js**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/diyorbek_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diyorbek_coder" height="30" width="40" /></a>
+<a href="https://instagram.com/burkhanov.diyorbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diyorbek_coder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
